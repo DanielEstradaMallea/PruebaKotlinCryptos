@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PruebaFinalCoins</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="usd">USD$</string>
+    <string name="ir_al_sitio_web">Ir al sitio web</string>
+    <string name="price">Price:</string>
+    <string name="name">Name:</string>
+    <string name="usuario">Usuario:</string>
+    <string name="sin_registrar">Sin registrar</string>
+    <string name="cryptoteca">Cryptoteca</string>
+    <string name="campo_obligatorio">Campo obligatorio</string>
+
+</resources>
